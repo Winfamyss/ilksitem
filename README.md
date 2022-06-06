@@ -1,8 +1,8 @@
-#İndirme
+# İndirme
 İndirmek İçin
 >gh repo clone Winfamyss/ilksitem
 
-#Siteyi Görmek İçin
+# Siteyi Görmek İçin
 Giriş.html Dosyasını Açın
 
 
