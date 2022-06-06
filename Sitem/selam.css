@@ -1,0 +1,53 @@
+#MidArty{
+    color: rgba(255, 205, 149, 0.815);
+    font-size: 20px;
+    list-style-position: inside;
+    text-align: center;
+
+}
+#Links{
+    color: rgba(255, 205, 149, 0.815);
+    font-size: 30px;
+    list-style-position: inside;
+    text-align: center;
+}
+
+.fs40{
+    font-size: 40px;
+}
+.fs30{
+    font-size: 30px;
+}
+.fs20{
+    font-size: 20px;
+}
+
+body{
+    background-color: rgba(6, 7, 7, 0.904);
+}
+
+
+
+/**** link ****/
+a:link {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(217, 255, 0);
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(209, 136, 0);
+    text-decoration: none;
+  }
